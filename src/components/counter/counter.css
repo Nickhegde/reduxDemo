@@ -1,0 +1,24 @@
+.counter-container {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+span,
+button {
+  background-color: #61dafb;
+  color: #282c34;
+  height: 50px;
+  margin: 20px;
+}
+
+span {
+  width: 20%;
+  line-height: 50px;
+}
+
+button {
+  width: 10%;
+  cursor: pointer;
+}
